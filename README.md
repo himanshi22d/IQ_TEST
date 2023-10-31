@@ -1,1 +1,1 @@
-# IQ_TEST
+# QUIZ_APP
